@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root, body {
+    color-scheme: normal !important;
+    background: none !important;
+}
